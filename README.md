@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository for practising.
+# About me
+My name's Bartek. I'm a computer science student :)
